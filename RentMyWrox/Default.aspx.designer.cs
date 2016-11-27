@@ -10,6 +10,6 @@
 namespace RentMyWrox {
     
     
-    public partial class IntroToCss {
+    public partial class Default {
     }
 }
