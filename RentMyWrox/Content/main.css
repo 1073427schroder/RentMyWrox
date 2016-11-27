@@ -4,9 +4,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
-.title {
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-}
-.label {
+.title, .label {
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
